@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Alhousainy Abdelrahman , <br>I am a results-oriented AI Solutions Developer Engineer specializing in designing and implementing intelligent solutions. My expertise lies in Python and PyTorch, and I have a proven track record of solving challenging problems, demonstrated by my performance in Codeforces competitions﻿.​<br><br><br>
+My name is Alhousainy Abdelrahman , <br>I am a results-oriented AI Solutions Developer Engineer specializing in designing and implementing intelligent solutions. My expertise lies in Python , OpenCV , Tensorflow , Keras , Mediapipe , Numpy , Pandas , Matplotlib,  and PyTorch, and I have a proven track record of solving challenging problems, demonstrated by my performance in Codeforces competitions﻿.​<br><br><br>
 
 
 ## 🌐 Socials:
